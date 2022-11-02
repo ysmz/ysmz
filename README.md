@@ -8,4 +8,3 @@
 ysmz/ysmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://prog-8.com/companies/11229/invitation?auth_token=b8779dbe91a6fdf62139be7b0cecf6dc**
